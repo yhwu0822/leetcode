@@ -28,3 +28,5 @@ class Solution:
                 return False
 
         return check(mid, head)
+   
+#迴圈寫法看不懂就沒上傳了
